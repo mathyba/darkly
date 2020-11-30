@@ -1,0 +1,4 @@
+.cache
+.sqlmap
+.vscode
+*.sw*
